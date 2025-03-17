@@ -1,0 +1,15 @@
+.friendList {
+  display: flex;
+  align-items: center;
+
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: #f9f6f6;
+  padding: 10px;
+}
+
+.friendList img {
+  width: 90px;
+  height: 90px;
+  padding: 10px;
+}

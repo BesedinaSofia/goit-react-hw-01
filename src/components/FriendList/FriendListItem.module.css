@@ -1,0 +1,29 @@
+.item {
+  border: 2px solid #000000;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.friend-item img {
+  margin-right: 10px;
+}
+
+.name {
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.status {
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
